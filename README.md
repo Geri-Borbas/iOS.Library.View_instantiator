@@ -1,5 +1,6 @@
 ## ![eppz!kit](http://eppz.eu/beacons/eppz!.png) eppz!view instantiator
 **Simplest way to load UIView from Xib.**
+```Objective-C
 // Life with a smart category on UIView.
 [[self.view addSubview:[MenuView loadFromNib]];
 ```
