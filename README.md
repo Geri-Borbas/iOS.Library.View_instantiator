@@ -14,6 +14,5 @@ See full blog post at [Simplest way to load UIView from Xib](http://eppz.eu/blog
 > Licensed under the [Open Source MIT license](http://en.wikipedia.org/wiki/MIT_License).
 
 [![githalytics.com alpha](https://cruel-carlota.pagodabox.com/ce5f5ed3005d21b8ed6324dd3b8660cf "githalytics.com")](http://githalytics.com/eppz/UIView-from-Xib)
-
 [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/eppz/uiview-from-xib/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 
